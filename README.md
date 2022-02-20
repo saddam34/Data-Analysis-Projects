@@ -1,2 +1,2 @@
-# Data-Analysis-Projects
+# Workshop-Projects
 My Projects
